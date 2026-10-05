@@ -1,5 +1,13 @@
 # Soulseek-Windows-11-style-theme-dark
 Windows 11-inspired dark theme for SoulseekQt
+
+## Requirements
+This theme is designed to be used with:
+
+- [Windhawk](https://windhawk.net/)
+- [Windows 11 Custom Title Bar Colours](https://windhawk.net/mods/win11-custom-title-bar-colours)
+
+The Windhawk mod is required to reproduce the custom window title-bar colours shown in the screenshots.
 <img width="2512" height="1439" alt="2026-10-05_12-39" src="https://github.com/user-attachments/assets/39e3bce1-cfae-471c-95cf-04be1aae1564" />
 <img width="2513" height="1439" alt="2026-10-05_12-39_1" src="https://github.com/user-attachments/assets/ac880b33-dc10-4295-8137-d167b1b6ba9c" />
 <img width="2513" height="1439" alt="2026-10-05_12-40" src="https://github.com/user-attachments/assets/6c9476dd-6af1-483e-863f-beff682cc7db" />
