@@ -6,6 +6,7 @@ This theme is designed to be used with:
 
 - [Windhawk](https://windhawk.net/)
 - [Windows 11 Custom Title Bar Colours](https://windhawk.net/mods/win11-custom-title-bar-colours)
+- [DOWNLOAD](https://github.com/MajorOfMillenium/Soulseek-Windows-11-style-theme-dark/releases/tag/v.1.0.0)
 
 The Windhawk mod is required to reproduce the custom window title-bar colours shown in the screenshots.
 <img width="2512" height="1439" alt="2026-10-05_12-39" src="https://github.com/user-attachments/assets/39e3bce1-cfae-471c-95cf-04be1aae1564" />
